@@ -1,2 +1,7 @@
 # Practice-2
-Multithreaded programming using mutexes
+**Многопоточное программирование с использованием мьютексов
+
+
+
+### Пример работы программы
+![Uploading image.png…]()
